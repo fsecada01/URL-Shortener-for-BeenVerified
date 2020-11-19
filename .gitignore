@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# batch files
+*.bat
+
+# Node modules and build files
+node_modules
