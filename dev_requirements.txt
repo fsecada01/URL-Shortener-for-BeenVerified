@@ -23,7 +23,7 @@ entrypoints==0.3          # via nbconvert
 flask-debugtoolbar==0.11.0  # via -r dev_requirements.in
 flask==1.1.2              # via -c core_requirements.txt, flask-debugtoolbar
 idna==2.10                # via requests
-importlib-metadata==2.0.0  # via -c core_requirements.txt, jsonschema
+importlib-metadata==3.0.0  # via -c core_requirements.txt, jsonschema
 ipykernel==5.3.4          # via notebook
 ipython-genutils==0.2.0   # via nbformat, notebook, traitlets
 ipython==7.19.0           # via ipykernel, nb-black
